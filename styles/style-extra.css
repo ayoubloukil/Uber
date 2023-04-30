@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+}
+.navbar {
+        background-color: black;
+        height: 64px;
+        display: flex;
+}
+
+.navbar > .navbar-left {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 50%;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style-type: none;
+}
+
+.navbar > .navbar-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 50%;
+    font-family: 'Uber Move Text', sans-serif;
+    padding-left: 25%;
+    list-style-type: none;
+}
+
+select {
+    background-color: black;
+}
+
+select:hover {
+    background-color: gray;
+}
+
+select:active {
+    background-color: rgb(109, 109, 109);
+}
+
+.item-link {
+    color: white;
+    margin-left: 38px;
+    padding: 8px 10px;
+
+}
+
+.item-link:hover {
+    color: White;
+    border-radius: 25px;
+    background: gray;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.image-uber {
+    width: 100%;
+    height: auto;
+}
+
+.section-1 {
+    position: relative;
+}
+
+.image-section-2 {
+    position: relative;
+}
+
+.text-section-2 {
+    position: absolute;
+}
+
+.front-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 7%;
+}
+
+a > img {
+    width: 40%;
+    height: auto;
+}
+
+.front-box-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company {
+    font-family: 'Uber Move Text', sans-serif;
+    font-size: 16px;
+    appearance: none;
+    border: 0;
+}
+
+.front-box-choice {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Uber Move Text', sans-serif;
+    text-align: center;
+
+}
+
+.front-box-top {
+    list-style-type: none;
+    font-family: 'UberMoveText', system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.sign {
+    color: black;
+    border-radius: 25px;
+    background: #FFFFFF;
+    padding: 8px 10px;
+}
+
+.uber {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 112px;
+}
+
+
+.item {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+
+}
+
+.item-part {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-uber-2 {
+    position: relative;
+    text-align: center;
+}
+
+.section-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.features-more {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.item-3 {
+    width: 30%;
+}
+
+.section-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+
+}
+
+.section-4 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.section-4-part {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-section-4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}
+
+.item-section-5 {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+
+.section-5 {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-6-head {
+    display: flex;
+    justify-content: space-around;
+
+}
+.section-6-part {
+    margin-top: 5%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+.section-6-middle {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+

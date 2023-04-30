@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "Book";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/c7d2487e86a01259.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/d9fefb2e7848440e.woff") format("woff");
+  }
+  @font-face {
+    font-family: "NarrowBook";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/4092f014767a0c42.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/72265bee6edcde38.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Medium";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/373acd359b809a36.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/4a6ba14eeb82d398.woff") format("woff");
+  }
+  @font-face {
+    font-family: "NarrowMedium";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/d03e099b908c23f5.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/3b7b2d393828f966.woff") format("woff");
+  }
+  @font-face {
+    font-family: "News";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/eaaab0415f3c894a.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/7dee2ff8254c25e7.woff") format("woff");
+  }
+  @font-face {
+    font-family: "NarrowNews";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/3ead8fe086dcc03b.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/d35e4f7be34dbdf1.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Thin";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/4971a684a2006b0b.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/3bafb784fdbf1412.woff") format("woff");
+  }
+  @font-face {
+    font-family: "NarrowThin";
+    font-display: fallback;
+    src: url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/22ff2ed7e89a1893.woff2") format("woff2"),url("https://d3i4yxtzktqr9n.cloudfront.net/uber-sites/56bde4d6d985fd33.woff") format("woff");
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Light.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Light.woff')
+        format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Regular.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Regular.woff')
+        format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Medium.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Medium.woff')
+        format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMove';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Bold.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMove-Bold.woff')
+        format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Light.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Light.woff')
+        format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Regular.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Regular.woff')
+        format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Medium.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Medium.woff')
+        format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UberMoveText';
+    src: url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Bold.woff2')
+        format('woff2'),
+      url('https://d1a3f4spazzrp4.cloudfront.net/dotcom-assets/fonts/UberMoveText-Bold.woff')
+        format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
